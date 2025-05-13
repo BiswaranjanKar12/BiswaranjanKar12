@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Biswaranjan Kar</h1>
-<h3 align="center">A student passitionaltly learning about the web dev</h3>
+<h3 align="center">A student passitionaltly learning about Java , Machine Learning and Deep Learning concepts</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswaranjankar12&label=Profile%20views&color=0e75b6&style=flat" alt="biswaranjankar12" /> </p>
 
 - 🌱 I’m currently learning the data structures & algorithms **self-paced courses etc...**
 
-- 💬 Ask me about **the basi concepts of java and c++**
+- 💬 Ask me about **The basics concepts of Java,C++,Python**
 
 - 📫 How to reach me **karbiswranjan@gmail.com**
 
-- ⚡ Fun fact **i thnk i am funny beacuase i tend to make people laugh**
+- ⚡ Fun fact **i thnk i am funny beacuase I tend to make people laugh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
